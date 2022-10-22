@@ -1,0 +1,52 @@
+
+.Question1{
+    width: 500px;
+    position: absolute;
+    top: 30%;
+    display: none;
+    text-align: justify;
+}
+.introduction{
+    position: absolute;
+    top: 40%;
+    text-align: justify;
+}
+
+.Question2,
+.Question3,
+.Question4,
+.Question5,
+.Question6,
+.Question7,
+.Question8,
+.Question9,
+.Question10,
+.Question11,
+.Question12,
+.Question13,
+.Question14,
+.Question15{
+    display: none;
+    width: 500px;
+    position: absolute;
+    top: 30%;
+    text-align: justify;
+}
+
+.submitted{
+    display: none;
+    position: absolute;
+    top: 30%;
+    text-align: justify;
+}
+
+.container{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.welcome{
+    display: none;
+    width: 700px;
+    text-align: justify;
+}
